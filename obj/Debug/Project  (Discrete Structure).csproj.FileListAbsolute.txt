@@ -1,0 +1,8 @@
+D:\Project  (Discrete Structure)\Project  (Discrete Structure)\bin\Debug\Project  (Discrete Structure).exe.config
+D:\Project  (Discrete Structure)\Project  (Discrete Structure)\bin\Debug\Project  (Discrete Structure).exe
+D:\Project  (Discrete Structure)\Project  (Discrete Structure)\bin\Debug\Project  (Discrete Structure).pdb
+D:\Project  (Discrete Structure)\Project  (Discrete Structure)\obj\Debug\Project  (Discrete Structure).csproj.AssemblyReference.cache
+D:\Project  (Discrete Structure)\Project  (Discrete Structure)\obj\Debug\Project  (Discrete Structure).csproj.SuggestedBindingRedirects.cache
+D:\Project  (Discrete Structure)\Project  (Discrete Structure)\obj\Debug\Project  (Discrete Structure).csproj.CoreCompileInputs.cache
+D:\Project  (Discrete Structure)\Project  (Discrete Structure)\obj\Debug\Project  (Discrete Structure).exe
+D:\Project  (Discrete Structure)\Project  (Discrete Structure)\obj\Debug\Project  (Discrete Structure).pdb
